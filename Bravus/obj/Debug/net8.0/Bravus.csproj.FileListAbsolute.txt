@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\bin\Debug\net8.0\Bravus.exe
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\bin\Debug\net8.0\Bravus.deps.json
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\bin\Debug\net8.0\Bravus.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\bin\Debug\net8.0\Bravus.dll
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\bin\Debug\net8.0\Bravus.pdb
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.dll
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\refint\Bravus.dll
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.pdb
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\Bravus.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Bravus\Bravus\obj\Debug\net8.0\ref\Bravus.dll
